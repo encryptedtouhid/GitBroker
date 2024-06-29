@@ -1,2 +1,2 @@
 # GitBroker
-A Data Broker Client for GitHub
+A Data Pulling Broker Client for GitHub
